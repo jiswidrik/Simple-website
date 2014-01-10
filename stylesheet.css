@@ -1,9 +1,9 @@
 .title-box {
   position: relative;
-	top: -10px;
-	background-color: #3c4543;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
+  top: -10px;
+  background-color: #3c4543;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
 #title-box-text {
   font-family: sans-serif;
