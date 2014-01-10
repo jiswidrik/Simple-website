@@ -16,11 +16,11 @@
   font-size: 1.5em; 
 }
 #sub1 {
-  
+  text-align: right;
 }
 #sub2 {
   text-align: center;
 }
 #sub3 {
-
+  text-align: left;
 }
