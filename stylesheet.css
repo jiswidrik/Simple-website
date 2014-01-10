@@ -1,6 +1,6 @@
 #title-box {
   width: auto;
-  height: 100px;
+  height: 110px;
   background-color: gray;
 }
 h2 {
@@ -8,6 +8,7 @@ h2 {
   text-align: center;
   margin-top: 4%;
   color:white;
+  float:top;
 }
 .subtitle {
   font-family: sans-serif;
