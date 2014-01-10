@@ -2,7 +2,10 @@
   font-family: sans-serif;
   text-align: center;
   margin-top: 4%;
-  background-color:gray;
+  background-color: gray;
+  color: white;
+  width: auto;
+  height:20px;
 }
 .subtitle {
   font-family: sans-serif;
