@@ -8,7 +8,8 @@ h2 {
   text-align: center;
   margin-top: 4%;
   color:white;
-  float:top;
+  padding-top: 25px;
+	padding-bottom: 25px;
 }
 .subtitle {
   font-family: sans-serif;
