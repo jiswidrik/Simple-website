@@ -1,9 +1,9 @@
-#title-box {
+.title-box {
   width: auto;
   height: 110px;
   background-color: gray;
 }
-h2 {
+#title-box-text {
   font-family: sans-serif;
   text-align: center;
   margin-top: 4%;
