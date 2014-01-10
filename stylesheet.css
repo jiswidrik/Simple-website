@@ -3,18 +3,19 @@
 }*/
 .title-box {
   position: relative;
-  top: -10px;
+  top: -8px;
   background-color: #474649;
   padding-bottom: 5px;
+  height: 90px
 }
 #title-box-text {
   font-family: sans-serif;
   text-align: center;
   color:white;
-  padding-top: 55px;
+  padding-top: 25px;
   padding-bottom: 25px;
   font-weight: 100;
-  font-size: 2em;
+  font-size: 1.7em;
 }
 .subtitle {
   font-family: sans-serif;
@@ -22,10 +23,12 @@
 }
 #sub1 {
   text-align: left;
+  float: left;
 }
 #sub2 {
   text-align: center;
 }
 #sub3 {
   text-align: right;
+  float: right;
 }
