@@ -1,8 +1,6 @@
 .title-box {
-  width: auto;
-  height: 110px;
   background-color: gray;
-  margin-top: 0px;
+  margin: 0px 500px 500px;
 }
 #title-box-text {
   font-family: sans-serif;
