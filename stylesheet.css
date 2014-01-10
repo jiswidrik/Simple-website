@@ -2,6 +2,7 @@
   position: relative;
   top: -10px;
   background-color: gray;
+  padding-bottom: 10px;
 }
 #title-box-text {
   font-family: sans-serif;
