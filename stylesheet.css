@@ -1,19 +1,18 @@
-*{
+/* * {
   border: 1px solid black;
-}
+}*/
 .title-box {
   position: relative;
   top: -10px;
   background-color: #474649;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 #title-box-text {
   font-family: sans-serif;
   text-align: center;
   color:white;
-  padding-top: 25px;
+  padding-top: 55px;
   padding-bottom: 25px;
-  background-color: none;
   font-weight: 100;
   font-size: 2em;
 }
