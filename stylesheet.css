@@ -1,7 +1,8 @@
-h2 {
+#title {
   font-family: sans-serif;
   text-align: center;
   margin-top: 4%;
+  background-color:gray;
 }
 .subtitle {
   font-family: sans-serif;
