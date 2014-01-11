@@ -37,3 +37,7 @@
 br {
   clear: right;
 }
+.line {
+  width: 1px;
+  height: auto;
+}
