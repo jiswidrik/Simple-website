@@ -24,7 +24,6 @@
   float: left;
   width: 240px;
   background-color: blue;
-  margin-left: 100px;
   text-align: center
 }
 #sub2 {
@@ -74,5 +73,5 @@ br {
 #unorderd-list {
   font-family: sans-serif;
   float: left;
-  width: 320px;
+  width: 295px;
 }
