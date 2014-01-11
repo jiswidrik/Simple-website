@@ -45,7 +45,7 @@ br {
 }
 .line {
   width: 2px;
-  height: 500px;
+  height: 490px;
   background-color: #474649;
 }
 #line1 {
@@ -55,7 +55,7 @@ br {
   float: left;
 }
 .footer {
-  height: 60px;
+  height: 50px;
   background-color: gray;
   margin-bottom: -20px;
   clear: both;
@@ -65,4 +65,5 @@ br {
   color: white;
   font-family: sans-serif;
   text-align: center;
+  margin-top: 25px;
 }
