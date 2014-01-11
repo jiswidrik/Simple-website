@@ -35,7 +35,7 @@
 }
 #sub3 {
   float: left;
-  width: 330px;
+  width: 200px;
   background-color: red;
 }
 br {
@@ -51,4 +51,8 @@ br {
 }
 #line2 {
   float: left;
+}
+.footer {
+  height: 60px;
+  background-color: gray;
 }
