@@ -66,9 +66,13 @@ br {
   text-align: center;
   margin-top: 15px;
 }
-#unorderd-list {
-  font-family: sans-serif;
-}
 #git {
   font-family: sans-serif;
+  float: left;
+  width: 240px;
+}
+#unorderd-list {
+  font-family: sans-serif;
+  float: left;
+  width: 320px;
 }
