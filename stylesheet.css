@@ -24,7 +24,6 @@
 #sub1 {
   float: left;
   width: 410px;
-  text-align: center;
 }
 #sub2 {
   float: left;
@@ -34,7 +33,6 @@
 #sub3 {
   float: left;
   width: 330px;
-  text-align: right;
 }
 br {
   clear: right;
