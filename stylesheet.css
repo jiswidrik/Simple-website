@@ -57,6 +57,5 @@ br {
 .footer {
   height: 60px;
   background-color: gray;
-  position: relative;
   margin-bottom: -500px;
 }
