@@ -25,6 +25,7 @@
   width: 240px;
   background-color: blue;
   text-align: center
+  margin-left: 100px;
 }
 #sub2 {
   float: left;
