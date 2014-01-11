@@ -61,3 +61,7 @@ br {
   clear: both;
   position: relative;
 }
+#copyright {
+  color: white;
+  font-family: sans-serif;
+}
