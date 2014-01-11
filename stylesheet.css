@@ -55,4 +55,5 @@ br {
 .footer {
   height: 60px;
   background-color: gray;
+  position: absolute;
 }
