@@ -12,8 +12,7 @@
   font-family: sans-serif;
   text-align: center;
   color:white;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  margin-top: 70px;
   font-weight: 100;
   font-size: 1.8em;
 }
@@ -44,7 +43,7 @@ br {
   clear: right;
 }
 .line {
-  width: 2px;
+  width: 1px;
   height: 490px;
   background-color: #474649;
 }
