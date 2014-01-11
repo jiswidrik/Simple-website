@@ -39,6 +39,12 @@ br {
 }
 .line {
   width: 1px;
-  height: auto;
+  height: 500px;
   background-color: #474649;
+}
+#line1 {
+  
+}
+#line2 {
+  
 }
