@@ -23,20 +23,20 @@
 }
 #sub1 {
   float: left;
-  width: 150px;
+  width: 240px;
   background-color: blue;
   margin-left: 100px;
   text-align: center
 }
 #sub2 {
   float: left;
-  width: 300px;
+  width: 320px;
   text-align: center;
   background-color: green;
 }
 #sub3 {
   float: left;
-  width: 185px;
+  width: 235px;
   background-color: red;
   text-align: center
 }
