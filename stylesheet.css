@@ -40,4 +40,5 @@ br {
 .line {
   width: 1px;
   height: auto;
+  background-color: #474649;
 }
