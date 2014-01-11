@@ -43,8 +43,8 @@ br {
   background-color: #474649;
 }
 #line1 {
-  
+  float: left;
 }
 #line2 {
-  
+  float: right;
 }
