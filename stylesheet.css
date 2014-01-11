@@ -1,6 +1,6 @@
-* {
+/* * {
   border: 1px solid black;
-}
+}*/
 .title-box {
   position: relative;
   top: -8px;
@@ -23,17 +23,17 @@
 }
 #sub1 {
   float: left;
-  width: 210px;
+  width: 310px;
   text-align: center;
 }
 #sub2 {
   float: left;
-  width: 250px;
+  width: 350px;
   text-align: center;
 }
 #sub3 {
   float: left;
-  width: 230px;
+  width: 330px;
   text-align: right;
 }
 br {
