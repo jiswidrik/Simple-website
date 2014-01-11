@@ -24,15 +24,18 @@
 #sub1 {
   float: left;
   width: 405px;
+  background-color: blue;
 }
 #sub2 {
   float: left;
   width: 450px;
   text-align: center;
+  background-color: green;
 }
 #sub3 {
   float: left;
   width: 330px;
+  background-color: red;
 }
 br {
   clear: right;
