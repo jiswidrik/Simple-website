@@ -26,6 +26,7 @@
   width: 405px;
   background-color: blue;
   margin-left: 100px;
+  text-align: center
 }
 #sub2 {
   float: left;
@@ -37,6 +38,7 @@
   float: left;
   width: 200px;
   background-color: red;
+  text-align: center
 }
 br {
   clear: right;
