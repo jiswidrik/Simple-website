@@ -12,8 +12,10 @@
   font-family: sans-serif;
   text-align: center;
   color:white;
-  margin-top: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
   font-size: 1.8em;
+  
 }
 .content {
   width:80%;
@@ -66,7 +68,8 @@
   color: white;
   font-family: sans-serif;
   text-align: center;
-  margin-bottom: -20px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 #git {
   font-family: sans-serif;
