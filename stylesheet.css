@@ -40,7 +40,7 @@
   text-align: center
 }
 br {
-  clear: right;
+  clear: both;
 }
 .line {
   width: 1px;
