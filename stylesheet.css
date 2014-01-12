@@ -38,7 +38,6 @@
   float: left;
   width: 235px;
   /*background-color: red;*/
-  text-align: center;
   }
 /*br {
   clear: right;
@@ -50,12 +49,9 @@
 }
 #line1 {
   float: left;
-  margin-top: -76px;
 }
 #line2 {
   float: left;
-  margin-top: -490;
-  margin-left: 560;
 }
 .footer {
   height: 50px;
@@ -84,7 +80,7 @@
   clear: left;
 }
 img {
-  width: 235px;
+  width: 234px;
   height: 180px;
   float: left;
   clear: left;
