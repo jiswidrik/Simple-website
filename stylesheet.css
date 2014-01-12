@@ -70,9 +70,11 @@ br {
   font-family: sans-serif;
   float: left;
   width: 240px;
+  clear: left;
 }
 #unorderd-list {
   font-family: sans-serif;
   float: left;
   width: 295px;
+  clear: left;
 }
