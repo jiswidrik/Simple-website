@@ -1,12 +1,12 @@
-* {
+/** {
   border: 1px solid black;
-}
+}*/
 .title-box {
   position: relative;
-  top: -8px;
+  top: -30px;
   background-color: #474649;
   padding-bottom: 5px;
-  height: 92px
+  height: 92px;
 }
 #title-box-text {
   font-family: sans-serif;
@@ -15,6 +15,7 @@
   margin-top: 30px;
   font-weight: 100;
   font-size: 1.8em;
+  padding-top: 30px;
 }
 .subtitle {
   font-family: sans-serif;
@@ -23,24 +24,26 @@
 #sub1 {
   float: left;
   width: 240px;
-  background-color: blue;
-  text-align: center
-  margin-left: 100px;
+  /*background-color: blue;
+  margin-left: 100px;*/
 }
 #sub2 {
   float: left;
   width: 320px;
   text-align: center;
-  background-color: green;
+  /*background-color: green;*/
+  margin-top: -76px;
 }
 #sub3 {
   float: left;
   width: 235px;
-  background-color: red;
-  text-align: center
-}
+  /*background-color: red;*/
+  text-align: center;
+  margin-top: -490;
+  margin-left: 561;
+  }
 br {
-  clear: both;
+  clear: right;
 }
 .line {
   width: 1px;
@@ -49,9 +52,12 @@ br {
 }
 #line1 {
   float: left;
+  margin-top: -76px;
 }
 #line2 {
   float: left;
+  margin-top: -490;
+  margin-left: 560;
 }
 .footer {
   height: 50px;
@@ -64,7 +70,8 @@ br {
   color: white;
   font-family: sans-serif;
   text-align: center;
-  margin-top: 15px;
+  margin-bottom: -20px;
+  padding-top: 17px;
 }
 #git {
   font-family: sans-serif;
@@ -77,4 +84,6 @@ br {
   float: left;
   width: 295px;
   clear: left;
+  margin-top: -400px;
+  margin-left: 243px;
 }
