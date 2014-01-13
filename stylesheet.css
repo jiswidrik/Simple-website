@@ -50,7 +50,7 @@
 }*/
 .line {
   width: 1px;
-  height: 490px;
+  height: 485px;
   background-color: #474649;
 }
 #line1 {
@@ -74,6 +74,7 @@
   margin-bottom: auto;
   padding-top: 20px;
   padding-bottom: 20px;
+  text-size: 0.2em;
 }
 #git {
   font-family: sans-serif;
