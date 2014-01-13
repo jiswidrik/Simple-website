@@ -16,6 +16,7 @@
   margin-bottom: 0px auto;
   font-size: 1.8em;
   padding-top: 53.5px;
+  padding-bottom: 53.5px;
   
 }
 .content {
@@ -71,6 +72,8 @@
   text-align: center;
   margin-top: auto;
   margin-bottom: auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 #git {
   font-family: sans-serif;
