@@ -8,7 +8,7 @@
   height: 116px;
 }
 #title-box-text {
-  font-family: sans-serif;
+  font-family: Arial;
   text-align: center;
   color:white;
   margin-top: 58px;
@@ -23,7 +23,7 @@
   margin-right: auto;
 }
 .subtitle {
-  font-family: sans-serif;
+  font-family: Arial;
   font-size: 1.5em; 
 }
 #sub1 {
@@ -65,7 +65,7 @@
 }
 #copyright {
   color: white;
-  font-family: sans-serif;
+  font-family: Arial;
   text-align: center;
   margin-top: 25px;
   margin-bottom: 25px;
@@ -73,14 +73,14 @@
   font-size: 0.6em;
 }
 #git {
-  font-family: sans-serif;
+  font-family: Arial;
   float: left;
   width: 240px;
   clear: left;
   font-size: 0.7em;
 }
 #unorderd-list {
-  font-family: sans-serif;
+  font-family: Arial;
   float: left;
   width: 295px;
   clear: left;
