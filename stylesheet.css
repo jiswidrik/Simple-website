@@ -11,8 +11,8 @@
   font-family: sans-serif;
   text-align: center;
   color:white;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: 58px;
+  margin-bottom: 58px;
   font-size: 1.8em;
   height: 116px;
   
@@ -67,10 +67,10 @@
   color: white;
   font-family: sans-serif;
   text-align: center;
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
   height: 50px;
-  font-size: 0.5em;
+  font-size: 0.6em;
 }
 #git {
   font-family: sans-serif;
