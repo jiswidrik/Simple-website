@@ -12,11 +12,11 @@
   font-family: sans-serif;
   text-align: center;
   color:white;
-  margin-top: 0px auto;
-  margin-bottom: 0px auto;
+  /*margin-top: 0px auto;
+  margin-bottom: 0px auto;*/
   font-size: 1.8em;
-  padding-top: 21px;
-  padding-bottom: 26px;
+  padding-top: 23px;
+  padding-bottom: 28px;
   
 }
 .content {
@@ -70,8 +70,8 @@
   color: white;
   font-family: sans-serif;
   text-align: center;
-  margin-top: auto;
-  margin-bottom: auto;
+  /*margin-top: auto;
+  margin-bottom: auto;*/
   padding-top: 15px;
   padding-bottom: 15px;
   text-size: 0.2em;
