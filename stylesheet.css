@@ -11,11 +11,10 @@
   font-family: sans-serif;
   text-align: center;
   color:white;
-  /*margin-top: 0px auto;
-  margin-bottom: 0px auto;*/
+  margin-top: auto;
+  margin-bottom: auto;
   font-size: 1.8em;
-  padding-top: 23px;
-  padding-bottom: 28px;
+  height: 116px;
   
 }
 .content {
@@ -68,10 +67,9 @@
   color: white;
   font-family: sans-serif;
   text-align: center;
-  /*margin-top: auto;
-  margin-bottom: auto;*/
-  padding-top: 15px;
-  padding-bottom: 15px;
+  margin-top: auto;
+  margin-bottom: auto;
+  height: 50px;
   font-size: 0.5em;
 }
 #git {
