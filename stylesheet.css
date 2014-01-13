@@ -1,6 +1,6 @@
-/** {
+* {
   border: 1px solid black;
-}*/
+}
 .title-box {
   position: relative;
   top: -30px;
@@ -15,6 +15,7 @@
   margin-top: 0px auto;
   margin-bottom: 0px auto;
   font-size: 1.8em;
+  padding-top: 53.5px;
   
 }
 .content {
