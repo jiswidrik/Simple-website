@@ -19,8 +19,9 @@
   
 }
 .content {
-  margin-left: 150px;
-  margin-right: 150px;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .subtitle {
   font-family: sans-serif;
