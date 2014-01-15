@@ -11,10 +11,9 @@
   font-family: Arial, sans-serif;
   text-align: center;
   color:white;
-  margin-top: 65px;
-  margin-bottom: 58px;
+  margin-top: auto;
+  margin-bottom: auto;
   font-size: 1.8em;
-  height: 116px;
   
 }
 .content {
@@ -68,9 +67,8 @@
   color: white;
   font-family: Arial, sans-serif;
   text-align: center;
-  margin-top: 30px;
-  margin-bottom: 25px;
-  height: 50px;
+  margin-top: auto;
+  margin-bottom: auto;
   font-size: 0.6em;
 }
 #git {
