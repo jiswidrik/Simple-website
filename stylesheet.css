@@ -12,8 +12,9 @@
   text-align: center;
   color:white;
   font-size: 1.8em;
-  margin-bottom: -45px;
-  
+  display: box;
+  box-pack: center;
+  box-align: center;
 }
 .content {
   width: 860px;
@@ -67,7 +68,9 @@
   font-family: Arial, sans-serif;
   text-align: center;
   font-size: 0.6em;
-  margin-bottom: -25px;
+  display: box;
+ box-pack: center;
+ box-align: center;
 }
 #git {
   font-family: Arial, sans-serif;
