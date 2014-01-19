@@ -15,7 +15,7 @@
   margin-top: 40px;
 }
 .content {
-  width: 860px;
+  width: 890px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -74,6 +74,7 @@
   width: 240px;
   clear: left;
   font-size: 0.7em;
+  margin-right: 40px;
 }
 #unorderd-list {
   font-family: Arial, sans-serif;
