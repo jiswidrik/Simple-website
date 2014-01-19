@@ -53,6 +53,7 @@
 }
 #line2 {
   float: left;
+  margin-left: 40px;
 }
 .footer {
   height: 50px;
@@ -74,7 +75,6 @@
   width: 240px;
   clear: left;
   font-size: 0.7em;
-  margin-right: 40px;
 }
 #unorderd-list {
   font-family: Arial, sans-serif;
