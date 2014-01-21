@@ -26,24 +26,18 @@
 #sub1 {
   float: left;
   width: 240px;
-  /*background-color: blue;*/
   margin-right: 40px;
 }
 #sub2 {
   float: left;
   width: 330px;
   text-align: center;
-  /*background-color: green;*/
 }
 #sub3 {
   float: left;
   width: 234px;
   margin-left: 40px;
-  /*background-color: red;*/
   }
-/*br {
-  clear: right;
-}*/
 .line {
   width: 1px;
   height: 500px;
